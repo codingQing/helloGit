@@ -10,6 +10,7 @@ public class HelloGitWorld {
         System.out.println("第二次添加");
         System.out.println("第三次提交");
         System.out.println("第六次提交");
+        System.out.println("主干添加");
     }
 
 }
